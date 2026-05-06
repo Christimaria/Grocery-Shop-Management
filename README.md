@@ -29,3 +29,5 @@ with foreign key relationships between them.
 
 ## Project
 DBMS Mini Project
+
+![Dashboard](Dashboard.png)
